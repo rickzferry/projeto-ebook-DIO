@@ -1,0 +1,23 @@
+crie um titulo de ebook sobre o tema funções python versão 3, o ebook é sobre o nicho de programação e o subnicho é python, o título deve ser curto e brilhante e tenha uma temática mais progressista no título, me liste 4 variações de títulos
+
+
+
+combine os dois titulos abaixo para gerar um novo titulo poderoso
+"Empoderando Código: Funções Python 3 para o Futuro"
+"Python 3: Explorando Funções - O Caminho da Inovação"
+
+"Empoderando Código: Explorando Funções no Caminho da Inovação"
+
+
+faça um texto para ebook, com foco em funções python, listando os principais e mais importantes conceitos sobre funções em python com exemplos em código
+
+
+{REGRAS}
+>Explique sempre de uma forma simples mas mantendo os conceitos técnico
+>Deixe o texto simples e compreensível
+>Sempre traga exemplos de código em contexto de aplicações reais
+>Crie um introdução elegante e minimalista mas com conceitos técnicos gerais
+>Sempre crie e escreva um título por tópico iniciando por "Capítulo"
+
+
+
