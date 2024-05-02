@@ -5,7 +5,7 @@
 
  
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> Clique aqui para ler o ebook</a>
+<a href="https://github.com/rickzferry/projeto-ebook-DIO/blob/main/output/ebook%20-%20templatePPTX.pdf" title="ler PDF"> Clique aqui para ler o ebook</a>
 
 ## Tecnologias utilizadas no projeto
 
